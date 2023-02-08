@@ -1,0 +1,708 @@
+@media screen and (max-width: 414px) {
+    body {
+        width: 414px;
+        margin: 0px;
+    }
+    
+    div#content {
+        position: relative;
+        width: 80%;
+        height: 10000px;
+        border: 3px none;
+        margin-left:10%;
+        margin-right:10%;
+    }
+
+    h1.font-effect-neon {
+        font-family: "Sofia", sans-serif;
+        font-size: 75px;
+        text-align:center;
+        margin-bottom: 2px;
+    }
+
+    h3#Subtitulo-principal {
+        font-family: "Sofia", sans-serif;
+        margin-top: 2px;
+        font-size: 35px;
+        text-align:center;
+        color: fuchsia;
+    }
+
+    img.fotinho1Mes {
+        position: absolute;
+        top: 20px;
+        margin-left: 00%;
+        margin-right: 12%;
+        min-width: 76%;
+        height: 396.75px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    p.textinho1 {
+        position: absolute;
+        top: 440px;
+        margin-left: 05%;
+        margin-right: 05%;
+        max-width: 90%;
+        height: auto;
+        text-align: justify;
+        text-justify: inter-word;
+        font-family: "Sofia", sans-serif;
+    }
+
+    img.fotinhoDireita2Mes {
+        position: absolute;
+        top: 100px;
+        margin-left: 0%;
+        margin-right: 0%;
+        min-width: 79.998%;
+        right: auto;
+        height: 441.59px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    p.textinhoDireita2 {
+        position: absolute;
+        top: 560px;
+        margin-left: 05%;
+        margin-right: 05%;
+        width: 90%;
+        height: auto;
+        text-align: justify;
+        text-justify: inter-word;
+        font-family: "Sofia", sans-serif;
+    }
+
+    img.fotinho3Mes {
+        position: absolute;
+        top: 100px;
+        margin-left: 00%;
+        margin-right: 12%;
+        min-width: 88.32%;
+        height: 441.6px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    p.textinho3 {
+        position: absolute;
+        top: 560px;
+        margin-left: 05%;
+        margin-right: 05%;
+        max-width: 90%;
+        height: auto;
+        text-align: justify;
+        text-justify: inter-word;
+        font-family: "Sofia", sans-serif;
+    }
+
+    img.fotinhoDireita4Mes {
+        position: absolute;
+        top: 100px;
+        margin-left: 0.8%;
+        margin-right: 0%;
+        min-width: 79.998%;
+        right: auto;
+        height: 441.59px;
+    }
+
+    p.textinhoDireita4 {
+        position: absolute;
+        top: 560px;
+        margin-left: 05%;
+        margin-right: 05%;
+        width: 90%;
+        height: auto;
+        text-align: justify;
+        text-justify: inter-word;
+        font-family: "Sofia", sans-serif;
+        font-size: 14px;
+    }
+
+    img.fotinho5Mes {
+        position: absolute;
+        top: 150px;
+        margin-left: 00%;
+        margin-right: 12%;
+        min-width: 88.32%;
+        height: 250px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    p.textinho5 {
+        position: absolute;
+        top: 420px;
+        margin-left: 05%;
+        margin-right: 05%;
+        max-width: 90%;
+        height: auto;
+        text-align: justify;
+        text-justify: inter-word;
+        font-family: "Sofia", sans-serif;
+    }
+
+    img.fotinhoDireita6Mes {
+        position: absolute;
+        top: 60px;
+        margin-left: 0%;
+        margin-right: 12%;
+        min-width: 80%;
+        right: auto;
+        height: 420px;
+    }
+
+    p.textinhoDireita6 {
+        position: absolute;
+        top: 500px;
+        margin-left: 05%;
+        margin-right: 05%;
+        width: 90%;
+        height: auto;
+        text-align: justify;
+        text-justify: inter-word;
+        font-family: "Sofia", sans-serif;
+    }
+
+    img.fotinho7Mes {
+        position: absolute;
+        top: 160px;
+        margin-left: 14.25%;
+        margin-right: 0%;
+        min-width: 12.7%;
+        height: 420px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    p.textinho7 {
+        position: absolute;
+        top: 600px;
+        margin-left: 05%;
+        margin-right: 05%;
+        max-width: 90%;
+        height: auto;
+        text-align: justify;
+        text-justify: inter-word;
+        font-family: "Sofia", sans-serif;
+    }
+
+    img.fotinhoDireita8Mes {
+        position: absolute;
+        top: 150px;
+        margin-left: 14.25%;
+        margin-right: 0%;
+        min-width: 18%;
+        right: auto;
+        height: 420px;
+    }
+
+    p.textinhoDireita8 {
+        position: absolute;
+        top: 580px;
+        margin-left: 05%;
+        margin-right: 05%;
+        width: 90%;
+        height: auto;
+        text-align: justify;
+        text-justify: inter-word;
+        font-family: "Sofia", sans-serif;
+    }
+
+    img.fotinho9Mes {
+        position: absolute;
+        top: 200px;
+        margin-left: 00%;
+        margin-right: 12%;
+        min-width: 88.32%;
+        height: 340px;
+    }
+
+    p.textinho9 {
+        position: absolute;
+        top: 560px;
+        margin-left: 05%;
+        margin-right: 05%;
+        max-width: 90%;
+        height: auto;
+        text-align: justify;
+        text-justify: inter-word;
+        font-family: "Sofia", sans-serif;
+    }
+
+    img.fotinhoDireita10Mes {
+        position: absolute;
+        top: 200px;
+        margin-left: 00%;
+        margin-right: 12%;
+        min-width: 88.32%;
+        height: 250px;
+        right: auto;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    p.textinhoDireita10 {
+        position: absolute;
+        top: 480px;
+        margin-left: 05%;
+        margin-right: 05%;
+        width: 90%;
+        height: auto;
+        text-align: justify;
+        text-justify: inter-word;
+        font-family: "Sofia", sans-serif;
+    }
+
+    img.fotinho11Mes {
+        position: absolute;
+        top: 140px;
+        margin-left: 00%;
+        margin-right: 12%;
+        min-width: 88.32%;
+        height: 420px;
+    }
+
+    p.textinho11 {
+        position: absolute;
+        top: 560px;
+        margin-left: 05%;
+        margin-right: 05%;
+        max-width: 90%;
+        height: auto;
+        text-align: justify;
+        text-justify: inter-word;
+        font-family: "Sofia", sans-serif;
+    }
+
+    img.fotinhoDireita12Mes {
+        right: auto;
+        margin-right: 0%;
+        margin-left: 07.5%;
+        top: 280px;
+    }
+
+    p.textinhoDireita12 {
+        position: absolute;
+        top: 800px;
+        margin-left: 05%;
+        margin-right: 05%;
+        width: 90%;
+        height: auto;
+        text-align: justify;
+        text-justify: inter-word;
+        font-family: "Sofia", sans-serif;
+    }
+}
+
+body {
+    background-color: #ff99bb;
+}
+
+video {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    z-index: 15;
+    top: 50%;
+    left: 50%;
+    margin: -100px 0 0 -150px;
+}
+
+h1 {
+    font-family: "Sofia", sans-serif;
+    font-size: 100px;
+    text-align:center;
+    margin-bottom: 2px;
+}
+
+#Subtitulo-principal {
+    font-family: "Sofia", sans-serif;
+    margin-top: 2px;
+    font-size: 50px;
+    text-align:center;
+    color: fuchsia;
+}
+
+#content {
+    position: relative;
+    width: 80%;
+    height: 9600px;
+    border: 3px none;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.mesE {
+    position: absolute;
+    width: 100%;
+    height: 800px;
+    border:2px none;
+}
+
+.fotinho {
+    position: absolute;
+    top: 150px;
+    margin-left: 10%;
+    width: 25%;
+    height: 500px;
+    border: 2px dashed blue;
+}
+
+.textinho {
+    position: absolute;
+    top: 225px;
+    margin-left: 50%;
+    margin-right: 10%;
+    width: 40%;
+    height: 350px;
+    border: 2px dashed black;
+}
+
+.mesD {
+    position: absolute;
+    top: 800px;
+    width: 100%;
+    height: 800px;
+    border:2px none;
+}
+
+.fotinhoDireita {
+    position: absolute;
+    top: 150px;
+    right: 0px;
+    margin-right: 10%;
+    width: 25%;
+    height: 500px;
+    border: 2px dashed blue;
+}
+
+.textinhoDireita {
+    position: absolute;
+    top: 225px;
+    margin-right: 50%;
+    margin-left: 10%;
+    width: 40%;
+    height: 350px;
+    border: 2px dashed black;
+}
+
+.mesE2 {
+    position: absolute;
+    top: 1600px;
+    width: 100%;
+    height: 800px;
+}
+
+.mesD2 {
+    position: absolute;
+    top: 2400px;
+    width: 100%;
+    height: 800px;
+}
+
+.mesE3 {
+    position: absolute;
+    top: 3200px;
+    width: 100%;
+    height: 800px;
+}
+
+.mesD3 {
+    position: absolute;
+    top: 4000px;
+    width: 100%;
+    height: 800px;
+}
+
+.mesE4 {
+    position: absolute;
+    top: 4800px;
+    width: 100%;
+    height: 800px;
+}
+
+.mesD4 {
+    position: absolute;
+    top: 5600px;
+    width: 100%;
+    height: 800px;
+}
+
+.mesE5 {
+    position: absolute;
+    top: 6400px;
+    width: 100%;
+    height: 800px;
+}
+
+.mesD5 {
+    position: absolute;
+    top: 7200px;
+    width: 100%;
+    height: 800px;
+}
+
+.mesE6 {
+    position: absolute;
+    top: 8000px;
+    width: 100%;
+    height: 800px;
+}
+
+.mesD6 {
+    position: absolute;
+    top: 8800px;
+    width: 100%;
+    height: 800px;
+}
+
+.fotinho1Mes {
+    position: absolute;
+    top: 150px;
+    margin-left: 10%;
+    min-width: 21.739%;
+    height: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.fotinhoDireita2Mes {
+    position: absolute;
+    top: 150px;
+    right: 0px;
+    margin-right: 10%;
+    min-width: 19.531%;
+    height: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.fotinho3Mes {
+    position: absolute;
+    top: 150px;
+    margin-left: 10%;
+    min-width: 19.531%;
+    height: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.527), 0 6px 20px 0 rgba(0, 0, 0, 0.507);
+}
+
+.fotinhoDireita4Mes {
+    position: absolute;
+    top: 175px;
+    right: 0px;
+    margin-right: 10%;
+    min-width: 19.991%;
+    height: 500px;
+}
+
+.fotinho5Mes {
+    position: absolute;
+    top: 150px;
+    margin-left: 01%;
+    min-width: 34.722%;
+    height: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.63), 0 6px 20px 0 rgba(0, 0, 0, 0.658);
+}
+
+.fotinhoDireita6Mes {
+    position: absolute;
+    top: 175px;
+    right: 0px;
+    margin-right: 10%;
+    min-width: 21.081%;
+    height: 500px;
+}
+
+.fotinho7Mes {
+    position: absolute;
+    top: 150px;
+    margin-left: 10%;
+    min-width: 14.648%;
+    height: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.356), 0 6px 20px 0 rgba(0, 0, 0, 0.445);
+}
+
+.fotinhoDireita8Mes {
+    position: absolute;
+    top: 175px;
+    right: 0px;
+    margin-right: 10%;
+    min-width: 14.648%;
+    height: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.63), 0 6px 20px 0 rgba(0, 0, 0, 0.658);
+}
+
+.fotinho9Mes {
+    position: absolute;
+    top: 200px;
+    margin-left: 09%;
+    min-width: 19.896%;
+    height: 389px;
+}
+
+.fotinhoDireita10Mes {
+    position: absolute;
+    top: 150px;
+    right: 0px;
+    margin-right: 01%;
+    min-width: 34.701%;
+    height: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.fotinho11Mes {
+    position: absolute;
+    top: 150px;
+    margin-left: 10%;
+    min-width: 21.01%;
+    height: 500px;
+}
+
+.fotinhoDireita12Mes {
+    position: absolute;
+    top: 150px;
+    right: 0px;
+    margin-right: 14%;
+    min-width: 14.648%;
+    height: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.644), 0 6px 20px 0 rgba(0, 0, 0, 0.603);
+}
+
+.textinho1 {
+    position: absolute;
+    top: 300px;
+    margin-left: 768px;
+    margin-right: 10%;
+    max-width: 40%;
+    height: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: "Sofia", sans-serif;
+}
+
+.textinhoDireita2 {
+    position: absolute;
+    top: 320px;
+    margin-right: 768px;
+    margin-left: 10%;
+    width: 40%;
+    height: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: "Sofia", sans-serif;
+}
+
+.textinho3 {
+    position: absolute;
+    top: 300px;
+    margin-left: 768px;
+    margin-right: 10%;
+    max-width: 40%;
+    height: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: "Sofia", sans-serif;
+}
+
+.textinhoDireita4 {
+    position: absolute;
+    top: 320px;
+    margin-right: 768px;
+    margin-left: 10%;
+    width: 40%;
+    height: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: "Sofia", sans-serif;
+}
+
+.textinho5 {
+    position: absolute;
+    top: 300px;
+    margin-left: 850px;
+    margin-right: 10%;
+    max-width: 40%;
+    height: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: "Sofia", sans-serif;
+}
+
+.textinhoDireita6 {
+    position: absolute;
+    top: 320px;
+    margin-right: 768px;
+    margin-left: 10%;
+    width: 40%;
+    height: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: "Sofia", sans-serif;    
+}
+
+.textinho7 {
+    position: absolute;
+    top: 300px;
+    margin-left: 765px;
+    margin-right: 10%;
+    max-width: 40%;
+    height: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: "Sofia", sans-serif;
+}
+
+.textinhoDireita8 {
+    position: absolute;
+    top: 320px;
+    margin-right: 768px;
+    margin-left: 10%;
+    width: 40%;
+    height: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: "Sofia", sans-serif;   
+}
+
+.textinho9 {
+    position: absolute;
+    top: 300px;
+    margin-left: 765px;
+    margin-right: 10%;
+    max-width: 40%;
+    height: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: "Sofia", sans-serif;
+}
+
+.textinhoDireita10 {
+    position: absolute;
+    top: 320px;
+    margin-right: 768px;
+    margin-left: 05%;
+    width: 40%;
+    height: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: "Sofia", sans-serif;   
+}
+
+.textinho11 {
+    position: absolute;
+    top: 300px;
+    margin-left: 765px;
+    margin-right: 10%;
+    max-width: 40%;
+    height: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: "Sofia", sans-serif;
+}
+
+.textinhoDireita12 {
+    position: absolute;
+    top: 320px;
+    margin-right: 768px;
+    margin-left: 10%;
+    width: 40%;
+    height: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    font-family: "Sofia", sans-serif;   
+}
